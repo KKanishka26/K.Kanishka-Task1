@@ -1,3 +1,3 @@
 # K.Kanishka-Task1
-First Intern at CodeAlpha
+First Internship at CodeAlpha
 Succesfull Completion of Task1!
